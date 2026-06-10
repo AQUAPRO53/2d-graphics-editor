@@ -1,5 +1,5 @@
 /* * Mini-project: 2D Graphics Editor
- * Student Name: Sourabh Toragal
+ * Student Name: Sujay VS
  * Student ID: [Your Student ID]
  * Final Submission Version
  */
